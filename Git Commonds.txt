@@ -1,0 +1,13 @@
+1. Git init
+2. Git Status
+3. Git add FileName.txt
+4. Git commit -m "write any bessage"
+5. Git clone url :- clone the project
+6. git push :- pushing our code back to repository(git hub)
+7. git verssion
+8. git pull url :- pull the changes whatever others maid and commited source code with using url 
+
+Other Verssion Control tools
+1. Toratise SVN
+2. git
+3. 
